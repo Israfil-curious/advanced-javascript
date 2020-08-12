@@ -1,10 +1,10 @@
-// function add(num1, num2) {
-//     console.log(num1 + num2);
-//     return 
-// }
+function add(num1, num2) {
+    console.log(num1 + num2);
+    return
+}
 
-// const result = add(10, 30);
-// console.log(result);
+const result = add(10, 30);
+console.log(result);
 
 function add(num1, num2) {
     console.log(num1, num2);
