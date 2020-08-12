@@ -1,11 +1,11 @@
 //falsy value:
-// "", NaN, undefined, 0, false;
+// "", NaN, undefined, 0, false, null;
 
 //truthy value:
 //" ", {}, [], true;
 
 
-const name = false;
+const name = null;
 if (name) {
     console.log("the name is true");
 } else {
